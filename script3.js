@@ -1,0 +1,3 @@
+"use strickt";
+
+alert('Hello');
